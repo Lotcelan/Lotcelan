@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-### Hello ! I'm Lancelot !
+### Hello ! I'm Lancelot ⚔ !
 
 This welcome page is only there to look cool, but in fact, I'm really bad x)
 
 ## Programming Languages
 
-Mainly Python, a bit of C++ and learning C.
+Mainly , a bit of C++ and learning C.
 
 ---
 ## Socials
