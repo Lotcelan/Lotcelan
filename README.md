@@ -30,6 +30,7 @@ Mainly Python, a bit of C++ and learning C.
 I don't have any !
 
 <br />
+
 ---
 <img  align='left' alt='stats' src="https://github-readme-stats.vercel.app/api?username=Lotcelan&show_icons=true&theme=synthwave">
 
