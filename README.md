@@ -29,4 +29,4 @@ Mainly Python, a bit of C++ and learning C.
 I don't have any !
 
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotcelan&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotcelan)](https://github.com/anuraghazra/github-readme-stats)
