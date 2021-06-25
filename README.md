@@ -23,6 +23,7 @@ This welcome page is only there to look cool, but in fact, I'm really bad x)
 ## Programming Languages
 
 Mainly Python, a bit of C++ and learning C.
+
 ---
 ## Socials
 
