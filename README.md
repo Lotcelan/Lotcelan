@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hello ! I'm Lancelot !
+
+This welcome page is only there to look cool, but in fact, I'm really bad x)
+
+## Programming Languages
+
+Mainly Python, a bit of C++ and learning C.
+
+## Socials
+
+I don't have any !
+
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotcelan&show_icons=true)
