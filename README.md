@@ -22,6 +22,10 @@ This welcome page is only there to look cool, but in fact, I'm really bad x)
 
 Mainly 🐍, a bit of C++ and learning C.
 
+## Interests
+
+I like cybersecurity, I'm a part of [HackInProvence](https://www.hackinprovence.fr/) team for CTFs !
+
 ---
 ## Socials
 
