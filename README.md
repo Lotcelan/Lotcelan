@@ -20,7 +20,7 @@ This welcome page is only there to look cool, but in fact, I'm really bad x)
 
 ## Programming Languages
 
-Mainly 🐍, a bit of C++ and learning C.
+Mainly 🐍, a bit of 🇨➕➕ and learning 🇨.
 
 ## Interests
 
