@@ -22,6 +22,8 @@ This welcome page is only there to look cool, but in fact, I'm really bad x)
 
 Mainly 🐍, a bit of C++ and learning C.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotcelan)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Interests
 
 I like cybersecurity, I'm a part of [HackInProvence](https://www.hackinprovence.fr/) team for CTFs !
